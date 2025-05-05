@@ -7,5 +7,4 @@ pydantic
 rank_bm25
 selectolax
 sentence_transformers
-urllib
 uvicorn
