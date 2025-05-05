@@ -5,7 +5,6 @@ pandas
 playwright
 pydantic
 rank_bm25
-recommender
 selectolax
 sentence_transformers
 urllib
