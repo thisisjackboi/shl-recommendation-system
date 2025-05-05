@@ -1,0 +1,2557 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior",
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations",
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Personality & Behavior",
+      "Simulations",
+      "Knowledge & Skills",
+      "Biodata & Situational Judgement",
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Ability & Aptitude",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Assessment Exercises",
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Development & 360",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "Claims/Operations Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/claimsoperations-supervisor-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Personality & Behavior",
+      "Simulations",
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Contact Center Customer Service + 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Contact Center Customer Service 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations",
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Contact Center Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-manager-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Contact Center Sales & Service + 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Personality & Behavior",
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Ability & Aptitude",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Contact Center Sales & Service 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations",
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Contact Center Team Lead/Coach - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Contact Centre Agent Solution - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-centre-agent-solution-uk/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Customer Service - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Customer Service - Short Form - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form-uk/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Customer Service with Sales - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-with-sales-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Director - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/director-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "District/Regional Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/districtregional-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (South Africa)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry level Sales 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry level Sales 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Personality & Behavior",
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7.1",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Event Sales Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/event-sales-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations",
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Executive - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Financial Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-professional-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Financial Services Representative Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-services-representative-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Front Desk Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/front-desk-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Gaming Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/gaming-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Gaming Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/gaming-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations",
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "General Entry Level - All Industries 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "General Entry Level - All Industries 7.1 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-1-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "General Entry Level - All Industries 7.1(Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "General Entry Level \u2013 Data Entry 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Graduate + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 30,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Graduate 7.1 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-7-1-job-focused-assessment/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Graduate 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 20,
+    "test_type": [
+      "Personality & Behavior",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Guest Service Team 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/guest-service-team-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Teller 7.0",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-7-0/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Teller with Sales - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-with-sales-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Transcriptionist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/transcriptionist-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Workplace Safety - Individual 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Workplace Safety - Individual 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Workplace Safety - Team 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Workplace Safety - Team 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Workplace Safety - Team 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Workplace Safety Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 7,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Assessment Exercises"
+    ]
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations",
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Development & 360"
+    ]
+  },
+  {
+    "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Development & 360",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 30,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations",
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 20,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 15,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Store Manager 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28international%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Store Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Supervisor 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Supervisor 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Supervisor 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28international%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Personality & Behavior",
+      "Competencies",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Support Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/support-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Support Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/support-supervisor-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Personality & Behavior",
+      "Simulations",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Technical Sales Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/technical-sales-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Technician/Technologist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/techniciantechnologist-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Technology Professional 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Telenurse Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/telenurse-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Professional Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-representative-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-supervisor-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Support Specialist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-support-specialist-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Senior Insurance Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/senior-insurance-agent-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Senior Sales Professional Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/senior-sales-professional-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Server Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/server-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Ability & Aptitude",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Service Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/service-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Service Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/service-supervisor-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Stock Clerk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/stock-clerk-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Store Manager 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Store Manager 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Proof Operator - Processing Specialist -Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Reservation Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/reservation-agent-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Personality & Behavior",
+      "Simulations",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Restaurant Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/restaurant-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Restaurant Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/restaurant-supervisor-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Retail Consultant Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-consultant-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Retail Manager w/ Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-manager-w-sales-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Retail Sales Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Director Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-director-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Engineer Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-engineer-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Sales Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Professional 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Sales Professional 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Nursing Assistant Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-assistant-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Personal Banker - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/personal-banker-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Phone Banker - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/phone-banker-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Prep/Line Cook Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/prepline-cook-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Professional + 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution-3958/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Professional + 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Professional + 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Professional 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Professional 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution-4247/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Professional 8.0 JFA",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-8-0-jfa/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Professional/Individual Contributor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/professionalindividual-contributor-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Project Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/project-manager-short-form/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Guest Services Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/guest-services-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Healthcare Aide 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-aide-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Healthcare Call Center Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-call-center-agent-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Healthcare Service Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-service-associate-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Healthcare Support Specialist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-support-specialist-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Home Health Aide Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/home-health-aide-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Hospitality Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/hospitality-manager-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Host Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/host-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Industrial - Entry Level 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Industrial - Entry Level 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Industrial - Entry Level 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Industrial - Professional and Skilled 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Knowledge & Skills",
+      "Technical Skills"
+    ]
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 18,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "duration": 1,
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  }
+]

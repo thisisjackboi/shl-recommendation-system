@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SHL Assessment Recommender</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
+
+  <!-- Icons -->
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<div id="toast" class="toast hidden"></div>
+
+<body>
+  <div class="layout">
+    <!-- Sidebar -->
+    <aside id="leftSidebar" class="sidebar glass">
+      <div class="sidebar-header">
+      </div>
+
+      <div class="input-mode-sidebar">
+        
+        <strong style="display: block; margin-bottom: 20px;">Input Option</strong>
+
+        <div class="mode-select">
+          <label style="margin-right: 20px;">
+            <input type="radio" name="mode" value="url" checked /> URL
+          </label>
+          <label>
+            <input type="radio" name="mode" value="query" /> Query
+          </label>
+          
+        </div>
+      </div>
+      <div class="slider-group" style="margin-top: 20px;">
+        <label for="numResults" style="display: block; color: var(--text-color); margin-bottom: 5px;">
+          Number of Results: <span id="numResultsLabel">5</span>
+        </label>
+        
+        <input type="range" id="numResults" min="1" max="20" value="5" step="1" style="width: 100%;">
+      </div>
+      
+
+      <ul class="nav-list">
+        <li><i class="bx bx-cog" ></i> Settings</li>
+      </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <div class="main-content">
+      <header class="header glass">
+        <h1 class="hero-title">SHL Assessment Recommender</h1>
+        <div class="header-actions">
+          <button id="themeToggle" class="glass-btn">🌓</button>
+          <div class="dropdown">
+            <button id="menuBtn" class="glass-btn">⋮</button>
+            <ul id="menuList" class="dropdown-menu glass">
+              <li><a href="#" id="helpBtn">Help</a></li>
+              <li><a href="#" id="aboutBtn">About</a></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+
+      <section class="recommender-section glass">
+        <div id="urlGroup" class="input-group">
+          <input type="text" id="jobUrl" placeholder="Paste job URL here…" />
+          <button id="extractBtn" class="btn btn--primary">Extract Keywords</button>
+        </div>
+
+        <textarea id="query" rows="6" placeholder="Keywords will appear here…"></textarea>
+
+        <div class="action-group">
+          <button id="btn" class="btn btn--primary">Recommend</button>
+          <div id="loader" class="spinner hidden"></div>
+
+        </div>
+
+        <div id="results"></div>
+      </section>
+    </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
