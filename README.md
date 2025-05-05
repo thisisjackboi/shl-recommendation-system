@@ -14,7 +14,7 @@ This project implements a recommendation system specifically designed for sugges
 ## 📁 Project Structure
 
 ```
-new_shl/
+shl_assesment_recommender/
 ├── api.py                         # REST API endpoints
 ├── evaluation.py                  # Recommendation evaluation script
 ├── new_scrapper2.py               # Web scraping utility
@@ -100,7 +100,9 @@ POST /recommend
 | Assessment Name | Name of the SHL assessment              |
 | URL             | Direct URL to the assessment page       |
 | Test Type       | Assessment category (knowledge, skills) |
-| Description     | Brief description of assessment content |
+| Duration        | Duration check                          |
+| test type       | Brief description of assessment type    |
+
 
 ## 💻 Frontend Functionality
 
@@ -117,17 +119,10 @@ python evaluation.py
 
 Outputs metrics like MAP@3 and Recall@3.
 
-## 📌 Contributing
 
-```bash
-git checkout -b feature/your-feature
-git add .
-git commit -m "Add your feature"
-git push origin feature/your-feature
-```
 
 ## 📜 License
 MIT License
 
 ## 📧 Contact
-For queries, contact: [your.email@example.com]
+For queries, contact: [your.email@asrafulhhaque@gmail.com]
