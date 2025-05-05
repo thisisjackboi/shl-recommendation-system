@@ -9,13 +9,14 @@ This project implements a recommendation system specifically designed for sugges
 - **Embedding Support**: Uses modern NLP embedding techniques.
 - **API Integration**: Offers recommendations through a REST API.
 - **Evaluation Metrics**: Calculates Mean Average Precision (MAP) and Recall for accuracy measurement.
-- **Interactive Frontend**: Modern and intuitive web interface with dynamic search capabilities and theme toggles.
+- **Interactive Frontend**: Modern and intuitive web interface with dynamic search capabilities and theme toggles using streamlit.
 
 ## 📁 Project Structure
 
 ```
 shl_assesment_recommender/
 ├── api.py                         # REST API endpoints
+├── streeamlit_app.py              #for hosting
 ├── evaluation.py                  # Recommendation evaluation script
 ├── new_scrapper2.py               # Web scraping utility
 ├── recommender.py                 # Recommendation engine
